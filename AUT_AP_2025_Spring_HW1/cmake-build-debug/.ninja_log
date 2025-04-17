@@ -1,0 +1,15 @@
+# ninja log v6
+23	406	7666115912566379	CMakeFiles/main.dir/src/Q3_Count_Islands.cpp.obj	748294171dbede6
+18	1601	7666115912516358	CMakeFiles/main.dir/src/unit_test.cpp.obj	c1ce1587d89ebcac
+30	486	7666114906492393	CMakeFiles/main.dir/src/Q2_Sort_By_Distance.cpp.obj	69b57308f1f5f939
+8	1219	7666111692725686	CMakeFiles/main.dir/src/main.cpp.obj	fae8e3ca6cc8c147
+13	388	7666123145252675	build.ninja	b80da2b652653ee3
+40	690	7666123181396489	CMakeFiles/main.dir/src/Q2_Sort_By_Distance.cpp.obj	aa03db3a46639cab
+45	702	7666123181454866	CMakeFiles/main.dir/src/Q3_Count_Islands.cpp.obj	322567088a9acba0
+29	1850	7666123181284421	CMakeFiles/main.dir/src/main.cpp.obj	55396af069aae05c
+24	1902	7666123181239314	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	6fedc36d33bd1245
+34	2320	7666123181338111	CMakeFiles/main.dir/src/unit_test.cpp.obj	c2fe7aa6e41629cf
+17	10057	7666123181169257	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	bcdc01212940f6de
+10059	12375	7666123281583949	lib/libgtestd.a	5197b79bf7edf730
+12376	12456	7666123304752260	lib/libgtest_maind.a	e8c47bc7fd9f0f6c
+12456	14945	7666123305547630	main.exe	49b3bda850eb50bb
