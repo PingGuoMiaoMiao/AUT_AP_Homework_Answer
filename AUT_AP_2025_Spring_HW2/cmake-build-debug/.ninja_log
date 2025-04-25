@@ -1,0 +1,20 @@
+# ninja log v6
+19	1786	7673087277739782	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	be8a53c39236ac11
+2	11	7671914452862067	clean	102412299aa83027
+18	2402	7673088132321537	CMakeFiles/main.dir/src/Q2_Word_Frequency.cpp.obj	7bb99daf4d9d03b4
+10	1396	7673088132241528	CMakeFiles/main.dir/src/unit_test.cpp.obj	39f12238929e742d
+14	378	7673088132281536	CMakeFiles/main.dir/src/Q1_Variadic_Template_sum.cpp.obj	400d3c409aca1ab1
+6	1124	7673088132201522	CMakeFiles/main.dir/src/main.cpp.obj	4237ef4713a5a681
+3	1355	7673088588571392	build.ninja	e2016328ccacaae5
+14	3494	7673087277689712	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	a8aea7088b3e16d
+7	9468	7673087277615377	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	6cd9c0d9ab4ef944
+9470	11872	7673087372252022	lib/libgtest.a	719fc4766373072f
+11878	11949	7673087396324919	lib/libgtest_main.a	a090ecd58fec2ca7
+11873	12220	7673087396274906	lib/libgmock.a	284bf68a340a2860
+2402	6206	7673088156158875	main.exe	9172e210277e76b1
+7	1219	7673091470200020	CMakeFiles/main.dir/src/main.cpp.obj	4237ef4713a5a681
+1219	5062	7673091482315187	main.exe	9172e210277e76b1
+16	575	7673094593040069	CMakeFiles/main.dir/src/Q2_Word_Frequency.cpp.obj	7bb99daf4d9d03b4
+7	1175	7673094592950014	CMakeFiles/main.dir/src/main.cpp.obj	4237ef4713a5a681
+12	1447	7673094593000064	CMakeFiles/main.dir/src/unit_test.cpp.obj	39f12238929e742d
+1447	4185	7673094607346461	main.exe	9172e210277e76b1
